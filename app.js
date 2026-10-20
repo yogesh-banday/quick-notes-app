@@ -1,6 +1,5 @@
 
 
-// We'll add the JavaScript here one small step at a time.
 let add_butoon = document.getElementById("add-note-button")
 let note_list = document.getElementById("note-list")
 let note_input = document.getElementById("note-input")
